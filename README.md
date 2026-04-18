@@ -1,5 +1,5 @@
 # About Me:
- I’m currently working on BackEnd technologies <br>
+ I’m currently working on Full stack and devops development <br>
 
 
 ##  Socials:
